@@ -1,0 +1,8 @@
+2023-04-03 01:30:37.157272 - Initialized conversion of CBT627
+2023-04-03 01:30:37.196218 - Received CBT.V504.FILE627.PDS from FILE627.XMI 
+2023-04-03 01:30:37.198490 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE627.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:30:37.199964 - Found $AUTOMAN.txt (text/plain) in CBT.V504.FILE627.PDS, moved to PDS/$AUTOMAN
+2023-04-03 01:30:37.201145 - Found @FILE627.txt (text/plain) in CBT.V504.FILE627.PDS, moved to PDS/@FILE627
+2023-04-03 01:30:37.222130 - Found AUTOMAN.xmi (application/xmit) in CBT.V504.FILE627.PDS
+2023-04-03 01:30:37.233196   - Received RECFM=U data, stored XMIT file as CBT627/AUTOMAN.xmi
+2023-04-03 01:30:37.235153 - De-xmi-ed AUTOMAN@ to CBT627/docs/AUTOMAN@.doc
